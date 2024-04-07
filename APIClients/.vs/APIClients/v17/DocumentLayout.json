@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\ClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\LogradouroService .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\LogradouroService .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\IClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Controllers\\ClientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ClientesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\ClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\LogradouroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\LogradouroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\create_database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:create_database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\ILogradouroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ILogradouroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Data\\ServiceMocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ServiceMocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\ILogradouroService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ILogradouroService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\ILogradouroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ILogradouroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Controllers\\LogradourosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LogradourosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\APIClients.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIClients.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Testes\\ClientesServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Testes\\ClientesServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Testes\\ClientesControllerIntegrationTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Testes\\ClientesControllerIntegrationTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:54:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:37:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:06:17.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "Interfaces\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:08:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:52:26.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-03T19:29:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogradouroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\LogradouroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LogradouroRepository.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\LogradouroRepository.cs",
+              "RelativeToolTip": "Repositories\\LogradouroRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:38:01.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:55:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogradouroService .cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\LogradouroService .cs",
+              "RelativeDocumentMoniker": "Services\\LogradouroService .cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\LogradouroService .cs",
+              "RelativeToolTip": "Services\\LogradouroService .cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:44:07.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:27:53.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T20:34:31.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "create_database.sql",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\create_database.sql",
+              "RelativeDocumentMoniker": "create_database.sql",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\create_database.sql",
+              "RelativeToolTip": "create_database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-06T20:27:03.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILogradouroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\ILogradouroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILogradouroRepository.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\ILogradouroRepository.cs",
+              "RelativeToolTip": "Repositories\\ILogradouroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:29:13.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceMocks.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Data\\ServiceMocks.cs",
+              "RelativeDocumentMoniker": "Data\\ServiceMocks.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Data\\ServiceMocks.cs",
+              "RelativeToolTip": "Data\\ServiceMocks.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:57:43.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:28:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA7wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T03:27:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogradouroService.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\ILogradouroService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILogradouroService.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\ILogradouroService.cs",
+              "RelativeToolTip": "Interfaces\\ILogradouroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:43:28.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILogradouroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\ILogradouroRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILogradouroRepository.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Interfaces\\ILogradouroRepository.cs",
+              "RelativeToolTip": "Interfaces\\ILogradouroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:37:27.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogradourosController.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Controllers\\LogradourosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogradourosController.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Controllers\\LogradourosController.cs",
+              "RelativeToolTip": "Controllers\\LogradourosController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAADwv3EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:49:36.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "APIClients.csproj",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\APIClients.csproj",
+              "RelativeDocumentMoniker": "APIClients.csproj",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\APIClients.csproj",
+              "RelativeToolTip": "APIClients.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T20:05:17.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientesServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Testes\\ClientesServiceTests.cs",
+              "RelativeDocumentMoniker": "Testes\\ClientesServiceTests.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Testes\\ClientesServiceTests.cs",
+              "RelativeToolTip": "Testes\\ClientesServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:38:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientesControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Testes\\ClientesControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Testes\\ClientesControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Natanael\\source\\repos\\Crud Clientes\\APIClients\\Testes\\ClientesControllerIntegrationTests.cs",
+              "RelativeToolTip": "Testes\\ClientesControllerIntegrationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:37:23.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
