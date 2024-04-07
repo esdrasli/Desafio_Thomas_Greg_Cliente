@@ -1,269 +1,313 @@
 # Desafio_Thomas_Greg
 
-# Documentação do Projeto
+## DocumentaÃ§Ã£o do Projeto
 
-## Aplicações Principais
+## AplicaÃ§Ãµes Principais
 
-###	Aplicação Backend (API REST):
-A aplicação backend é responsável por fornecer os serviços e funcionalidades para os clientes por meio de uma API RESTful. Ela será desenvolvida utilizando C# com ASP.NET Core, e será hospedada em um servidor web, como o IIS (Internet Information Services).
+###	AplicaÃ§Ã£o Backend (API REST):
+A aplicaÃ§Ã£o backend Ã© responsÃ¡vel por fornecer os serviÃ§os e funcionalidades para os clientes por meio de uma API RESTful. Ela serÃ¡ desenvolvida utilizando C# com ASP.NET Core, e serÃ¡ hospedada em um servidor web, como o IIS (Internet Information Services).
 
-###	Aplicação Frontend (Interface do Usuário):
-A aplicação frontend consiste na interface com a qual os usuários interagem para realizar operações como criar, atualizar, visualizar e remover clientes e logradouros. Ela pode ser desenvolvida utilizando ASP.NET Core MVC para renderização de páginas HTML tradicionais com Razor.
+###	AplicaÃ§Ã£o Frontend (Interface do UsuÃ¡rio):
+A aplicaÃ§Ã£o frontend consiste na interface com a qual os usuÃ¡rios interagem para realizar operaÃ§Ãµes como criar, atualizar, visualizar e remover clientes e logradouros. Ela pode ser desenvolvida utilizando ASP.NET Core MVC para renderizaÃ§Ã£o de pÃ¡ginas HTML tradicionais com Razor.
 
 ###	Banco de Dados:
-O banco de dados é uma aplicação fundamental que armazena e gerencia os dados da aplicação, como informações de clientes e logradouros. Para este projeto, será utilizado o SQL Server como sistema de gerenciamento de banco de dados relacional. O SQL Server será acessado pela aplicação backend para realizar operações de leitura e gravação de dados.
+O banco de dados Ã© uma aplicaÃ§Ã£o fundamental que armazena e gerencia os dados da aplicaÃ§Ã£o, como informaÃ§Ãµes de clientes e logradouros. Para este projeto, serÃ¡ utilizado o SQL Server como sistema de gerenciamento de banco de dados relacional. O SQL Server serÃ¡ acessado pela aplicaÃ§Ã£o backend para realizar operaÃ§Ãµes de leitura e gravaÃ§Ã£o de dados.
 
-###	Serviços de Terceiros:
-A solução pode depender de serviços externos, como serviços de armazenamento em nuvem (por exemplo, AWS S3, Azure Blob Storage), para fornecer funcionalidades adicionais e complementares, principalmente para armazenamento dos logotipos.
+###	ServiÃ§os de Terceiros:
+A soluÃ§Ã£o pode depender de serviÃ§os externos, como serviÃ§os de armazenamento em nuvem (por exemplo, AWS S3, Azure Blob Storage), para fornecer funcionalidades adicionais e complementares, principalmente para armazenamento dos logotipos.
 
-Além das aplicações principais mencionadas anteriormente, algumas aplicações de apoio podem ser necessárias para facilitar o desenvolvimento, teste e operação da solução. Aqui estão algumas das aplicações de apoio comumente utilizadas:
+AlÃ©m das aplicaÃ§Ãµes principais mencionadas anteriormente, algumas aplicaÃ§Ãµes de apoio podem ser necessÃ¡rias para facilitar o desenvolvimento, teste e operaÃ§Ã£o da soluÃ§Ã£o. Aqui estÃ£o algumas das aplicaÃ§Ãµes de apoio comumente utilizadas:
 
-## Aplicações de Apoio
+## AplicaÃ§Ãµes de Apoio
 
-### •	Visual Studio 2019/2022
-IDEs (Integrated Development Environments) populares para desenvolvimento de software em plataforma Microsoft. Elas oferecem recursos avançados de edição de código, depuração, controle de versão e integração com outras ferramentas de desenvolvimento.
+ **â€¢	Visual Studio 2019/2022**
+IDEs (Integrated Development Environments) populares para desenvolvimento de software em plataforma Microsoft. Elas oferecem recursos avanÃ§ados de ediÃ§Ã£o de cÃ³digo, depuraÃ§Ã£o, controle de versÃ£o e integraÃ§Ã£o com outras ferramentas de desenvolvimento.
 
-### •	SQL Server Management Studio (SSMS):
-SSMS é uma ferramenta de gerenciamento e administração para o SQL Server. Ela permite realizar tarefas como criar e gerenciar bancos de dados, escrever consultas SQL, configurar segurança e monitorar o desempenho do banco de dados.
+ **â€¢	SQL Server Management Studio (SSMS):**
+SSMS Ã© uma ferramenta de gerenciamento e administraÃ§Ã£o para o SQL Server. Ela permite realizar tarefas como criar e gerenciar bancos de dados, escrever consultas SQL, configurar seguranÃ§a e monitorar o desempenho do banco de dados.
 
-### •	Postman/Insomnia:
-Ferramentas de colaboração para o desenvolvimento de APIs. Ela permite testar, depurar e documentar APIs de forma eficiente, facilitando a interação com os endpoints da API, envio de solicitações HTTP e visualização das respostas.
-### •	Swagger / OpenAPI:
-Swagger é uma ferramenta de documentação de API que permite descrever, documentar e testar APIs de forma interativa. Ela gera automaticamente documentação para a API com base em um arquivo de especificação OpenAPI (anteriormente conhecido como Swagger Specification).
+ **â€¢	Postman/Insomnia:**
+Ferramentas de colaboraÃ§Ã£o para o desenvolvimento de APIs. Ela permite testar, depurar e documentar APIs de forma eficiente, facilitando a interaÃ§Ã£o com os endpoints da API, envio de solicitaÃ§Ãµes HTTP e visualizaÃ§Ã£o das respostas.
+ **â€¢	Swagger / OpenAPI:**
+Swagger Ã© uma ferramenta de documentaÃ§Ã£o de API que permite descrever, documentar e testar APIs de forma interativa. Ela gera automaticamente documentaÃ§Ã£o para a API com base em um arquivo de especificaÃ§Ã£o OpenAPI (anteriormente conhecido como Swagger Specification).
 
-### •	Docker:
-Docker é uma ferramenta que permite criar, gerenciar e executar contêineres em um ambiente de desenvolvimento local. Ela simplifica o processo de empacotamento de aplicativos e suas dependências em contêineres, garantindo consistência entre ambientes de desenvolvimento, teste e produção.
+ **â€¢	Docker:**
+Docker Ã© uma ferramenta que permite criar, gerenciar e executar contÃªineres em um ambiente de desenvolvimento local. Ela simplifica o processo de empacotamento de aplicativos e suas dependÃªncias em contÃªineres, garantindo consistÃªncia entre ambientes de desenvolvimento, teste e produÃ§Ã£o.
 
-### •	Git / GitHub:
-Git é um sistema de controle de versão distribuído amplamente utilizado para o rastreamento de mudanças no código-fonte durante o desenvolvimento de software. GitHub é uma plataforma de hospedagem de código que oferece recursos de colaboração, gerenciamento de projetos e integração contínua para equipes de desenvolvimento.
+ **â€¢	Git / GitHub:**
+Git Ã© um sistema de controle de versÃ£o distribuÃ­do amplamente utilizado para o rastreamento de mudanÃ§as no cÃ³digo-fonte durante o desenvolvimento de software. GitHub Ã© uma plataforma de hospedagem de cÃ³digo que oferece recursos de colaboraÃ§Ã£o, gerenciamento de projetos e integraÃ§Ã£o contÃ­nua para equipes de desenvolvimento.
 
-### •	SonarQube:
-SonarQube é uma plataforma de código aberto para inspeção contínua da qualidade do código-fonte para realizar análises estáticas de código, identificar problemas de código e aplicar boas práticas de desenvolvimento.
+ **â€¢	SonarQube:**
+SonarQube Ã© uma plataforma de cÃ³digo aberto para inspeÃ§Ã£o contÃ­nua da qualidade do cÃ³digo-fonte para realizar anÃ¡lises estÃ¡ticas de cÃ³digo, identificar problemas de cÃ³digo e aplicar boas prÃ¡ticas de desenvolvimento.
 
-### •	Azure DevOps CI/CD:
-Essas são plataformas de integração contínua e entrega contínua (CI/CD) que permitem automatizar o processo de construção, teste e implantação de software. Elas oferecem recursos como pipelines de CI/CD, gerenciamento de projetos, controle de versão e colaboração em equipe.
+ **â€¢	Azure DevOps CI/CD:**
+Essas sÃ£o plataformas de integraÃ§Ã£o contÃ­nua e entrega contÃ­nua (CI/CD) que permitem automatizar o processo de construÃ§Ã£o, teste e implantaÃ§Ã£o de software. Elas oferecem recursos como pipelines de CI/CD, gerenciamento de projetos, controle de versÃ£o e colaboraÃ§Ã£o em equipe.
 
 ## Bibliotecas
 
 ### Back-end
 
-### •	ASP.NET Core: Framework web usado para construir o backend da aplicação.
-### •	Entity Framework Core: ORM (Object-Relational Mapper) usado para mapear objetos de domínio para o banco de dados.
-### •	Microsoft.EntityFrameworkCore.SqlServer: Provedor de banco de dados SQL Server para o Entity Framework Core.
-### •	Microsoft.Extensions.DependencyInjection: Biblioteca para injeção de dependência no ASP.NET Core.
-### •	Microsoft.Extensions.Http: Biblioteca para gerenciamento de requisições HTTP no ASP.NET Core.
-### •	Microsoft.Extensions.Options: Biblioteca para configurações baseadas em opções no ASP.NET Core.
-### •	Microsoft.VisualStudio.Web.CodeGeneration.Design: Biblioteca de geração de código para ASP.NET Core.
+**â€¢	ASP.NET Core:** Framework web usado para construir o backend da aplicaÃ§Ã£o.
+ 
+**â€¢	Entity Framework Core:** ORM (Object-Relational Mapper) usado para mapear objetos de domÃ­nio para o banco de dados.
+ 
+ **â€¢	Microsoft.EntityFrameworkCore.SqlServer:** Provedor de banco de dados SQL Server para o Entity Framework Core.
+ 
+ **â€¢	Microsoft.Extensions.DependencyInjection:** Biblioteca para injeÃ§Ã£o de dependÃªncia no ASP.NET Core.
+ 
+ **â€¢	Microsoft.Extensions.Http:** Biblioteca para gerenciamento de requisiÃ§Ãµes HTTP no ASP.NET Core.
+ 
+ **â€¢	Microsoft.Extensions.Options:** Biblioteca para configuraÃ§Ãµes baseadas em opÃ§Ãµes no ASP.NET Core.
+ 
+ **â€¢	Microsoft.VisualStudio.Web.CodeGeneration.Design:** Biblioteca de geraÃ§Ã£o de cÃ³digo para ASP.NET Core.
 
 ### Front-end
 
-### •	ASP.NET Core: Framework web usado para construir o backend da aplicação.
-### •	Entity Framework Core: ORM (Object-Relational Mapper) usado para mapear objetos de domínio para o banco de dados.
-### •	Microsoft.EntityFrameworkCore.SqlServer: Provedor de banco de dados SQL Server para o Entity Framework Core.
-### •	Microsoft.Extensions.DependencyInjection: Biblioteca para injeção de dependência no ASP.NET Core.
-### •	Microsoft.Extensions.Http: Biblioteca para gerenciamento de requisições HTTP no ASP.NET Core.
-### •	Microsoft.Extensions.Options: Biblioteca para configurações baseadas em opções no ASP.NET Core.
-### •	Microsoft.VisualStudio.Web.CodeGeneration.Design: Biblioteca de geração de código para ASP.NET Core.
+ **â€¢	ASP.NET Core:** Framework web usado para construir o backend da aplicaÃ§Ã£o.
+ 
+ **â€¢	Entity Framework Core:** ORM (Object-Relational Mapper) usado para mapear objetos de domÃ­nio para o banco de dados.
+ 
+ **â€¢	Microsoft.EntityFrameworkCore.SqlServer:** Provedor de banco de dados SQL Server para o Entity Framework Core.
+ 
+**â€¢	Microsoft.Extensions.DependencyInjection:** Biblioteca para injeÃ§Ã£o de dependÃªncia no ASP.NET Core.
+ 
+ **â€¢	Microsoft.Extensions.Http:** Biblioteca para gerenciamento de requisiÃ§Ãµes HTTP no ASP.NET Core.
+ 
+ **â€¢	Microsoft.Extensions.Options:** Biblioteca para configuraÃ§Ãµes baseadas em opÃ§Ãµes no ASP.NET Core.
+ 
+ **â€¢	Microsoft.VisualStudio.Web.CodeGeneration.Design:** Biblioteca de geraÃ§Ã£o de cÃ³digo para ASP.NET Core.
+ 
 
 ### Banco de Dados 
-## •	Banco SQL Server.
 
-Para a modelagem de dados do desafio proposto, vamos criar um esquema simples que represente as entidades necessárias para o cadastro de clientes e logradouros. Vamos utilizar uma abordagem relacional básica, considerando os requisitos fornecidos.
+ **â€¢	Banco SQL Server.**
+
+Para a modelagem de dados do desafio proposto, vamos criar um esquema simples que represente as entidades necessÃ¡rias para o cadastro de clientes e logradouros. Vamos utilizar uma abordagem relacional bÃ¡sica, considerando os requisitos fornecidos.
 
 ### Entidades
 
 **Cliente:** 
-ID (Chave Primária)
+
+ID (Chave PrimÃ¡ria)
+
 Nome
-Email (Único)
+
+Email (Ãšnico)
+
 Logotipo (Armazenado como BLOB no banco de dados)
 
+
 **Logradouro:**
-ID (Chave Primária)
+
+ID (Chave PrimÃ¡ria)
+
 ClienteID (Chave Estrangeira referenciando a entidade Cliente)
-Logradouro (Endereço)
+
+Logradouro (EndereÃ§o)
 
 
-**Endereço:**
+**EndereÃ§o:**
+
 ClienteID (Chave Estrangeira referenciando a entidade Cliente)
+
 LogradouroID (Chave Estrangeira referenciando a entidade Logradouro)
 
+
 ## Diagrama de Entidade-Relacionamento (DER)
+
+![der](https://github.com/esdrasli/Desafio_Thomas_Greg_Cliente/assets/42820970/f38336cb-1550-4cb3-a7e2-337fc44ad079)
+
  
-### Descrição das Entidades
+### DescriÃ§Ã£o das Entidades
 
-### •	Cliente: Representa os clientes cadastrados na aplicação. Cada cliente possui um ID único, nome, e-mail único e um logotipo em formato de BLOB para representar a imagem da empresa.
+ **â€¢	Cliente:** Representa os clientes cadastrados na aplicaÃ§Ã£o. Cada cliente possui um ID Ãºnico, nome, e-mail Ãºnico e um logotipo em formato de BLOB para representar a imagem da empresa.
 
-### •	Logradouro: Representa os endereços associados a cada cliente. Cada logradouro possui um ID único, um ID de cliente que faz referência ao cliente proprietário e o endereço em si.
+ **â€¢	Logradouro:** Representa os endereÃ§os associados a cada cliente. Cada logradouro possui um ID Ãºnico, um ID de cliente que faz referÃªncia ao cliente proprietÃ¡rio e o endereÃ§o em si.
 
-### •	Endereço: Representa o relacionamento entre Cliente e Logradouro.
+ **â€¢	EndereÃ§o:** Representa o relacionamento entre Cliente e Logradouro.
 
 
-## Arquitetura de Microsserviços
+## Arquitetura de MicrosserviÃ§os
 
-### •	Serviço de Cliente:
+ **â€¢	ServiÃ§o de Cliente:**
 
-Responsável por lidar com todas as operações relacionadas aos clientes, incluindo cadastro, atualização, visualização e remoção de clientes.
+ResponsÃ¡vel por lidar com todas as operaÃ§Ãµes relacionadas aos clientes, incluindo cadastro, atualizaÃ§Ã£o, visualizaÃ§Ã£o e remoÃ§Ã£o de clientes.
 
-Implementado como um serviço independente, permitindo escalabilidade e evolução independentes.
+Implementado como um serviÃ§o independente, permitindo escalabilidade e evoluÃ§Ã£o independentes.
 
-Comunica-se com o serviço de Logradouro para gerenciar os endereços dos clientes.
+Comunica-se com o serviÃ§o de Logradouro para gerenciar os endereÃ§os dos clientes.
 
-### •	Serviço de Logradouro:
-	Responsável por lidar com todas as operações relacionadas aos logradouros, incluindo cadastro, atualização, visualização e remoção de logradouros.
-	Implementado como um serviço independente para modularidade e reuso.
+ **â€¢	ServiÃ§o de Logradouro:**
+	ResponsÃ¡vel por lidar com todas as operaÃ§Ãµes relacionadas aos logradouros, incluindo cadastro, atualizaÃ§Ã£o, visualizaÃ§Ã£o e remoÃ§Ã£o de logradouros.
+	Implementado como um serviÃ§o independente para modularidade e reuso.
 
-### •	Serviço de Armazenamento de Arquivos (File Storage Service):
+ **â€¢	ServiÃ§o de Armazenamento de Arquivos (File Storage Service):**
 
-Responsável por armazenar e recuperar os arquivos, como os logotipos dos clientes.
+ResponsÃ¡vel por armazenar e recuperar os arquivos, como os logotipos dos clientes.
 
 Implementado separadamente para garantir a escalabilidade e disponibilidade dos arquivos.
 
-Pode ser integrado com serviços de armazenamento em nuvem (por exemplo, AWS S3, Azure Blob Storage).
+Pode ser integrado com serviÃ§os de armazenamento em nuvem (por exemplo, AWS S3, Azure Blob Storage).
 
-### •	Arquitetura de Cada Serviço
+**â€¢	Arquitetura de Cada ServiÃ§o**
 
-Cada serviço seguirá uma arquitetura em camadas, consistindo de:
-
-
-### Camada de Apresentação:
-
-Responsável por lidar com as requisições HTTP, validar os dados de entrada e formatar as respostas da API.
-
-Implementada utilizando controllers, que recebem as requisições HTTP e chamam os serviços apropriados na camada de aplicação.
+Cada serviÃ§o seguirÃ¡ uma arquitetura em camadas, consistindo de:
 
 
-### Camada de Aplicação:
+### Camada de ApresentaÃ§Ã£o:
 
-Encarregada de coordenar as ações solicitadas pelos clientes, aplicando as regras de negócio da aplicação.
+ResponsÃ¡vel por lidar com as requisiÃ§Ãµes HTTP, validar os dados de entrada e formatar as respostas da API.
 
-Implementa a lógica de negócio e faz chamadas para a camada de acesso a dados para realizar operações no banco de dados.
+Implementada utilizando controllers, que recebem as requisiÃ§Ãµes HTTP e chamam os serviÃ§os apropriados na camada de aplicaÃ§Ã£o.
+
+
+### Camada de AplicaÃ§Ã£o:
+
+Encarregada de coordenar as aÃ§Ãµes solicitadas pelos clientes, aplicando as regras de negÃ³cio da aplicaÃ§Ã£o.
+
+Implementa a lÃ³gica de negÃ³cio e faz chamadas para a camada de acesso a dados para realizar operaÃ§Ãµes no banco de dados.
 
 ### Camada de Acesso a Dados (Data Access Layer):
 
-Responsável por realizar operações de leitura e escrita no banco de dados.
+ResponsÃ¡vel por realizar operaÃ§Ãµes de leitura e escrita no banco de dados.
 
 Utiliza um ORM (Object-Relational Mapping) para mapear objetos para as tabelas do banco de dados e realizar consultas.
 
 
-### Migrações e Gerenciamento de Esquema:
-	O Entity Framework Core oferece suporte a migrações de banco de dados, o que permite que você mantenha o esquema do banco de dados em sincronia com o modelo de dados conforme sua aplicação evolui. Isso facilita a implementação de alterações de esquema de forma controlada e automática.
+### MigraÃ§Ãµes e Gerenciamento de Esquema:
+	O Entity Framework Core oferece suporte a migraÃ§Ãµes de banco de dados, o que permite que vocÃª mantenha o esquema do banco de dados em sincronia com o modelo de dados conforme sua aplicaÃ§Ã£o evolui. Isso facilita a implementaÃ§Ã£o de alteraÃ§Ãµes de esquema de forma controlada e automÃ¡tica.
 
-### Segurança:
+### SeguranÃ§a:
 
-O SQL Server oferece recursos avançados de segurança, incluindo autenticação baseada em conta, criptografia de dados, controle de acesso granular e auditoria. Esses recursos serão utilizados para garantir a segurança dos dados da aplicação e o cumprimento das regulamentações de proteção de dados.
+O SQL Server oferece recursos avanÃ§ados de seguranÃ§a, incluindo autenticaÃ§Ã£o baseada em conta, criptografia de dados, controle de acesso granular e auditoria. Esses recursos serÃ£o utilizados para garantir a seguranÃ§a dos dados da aplicaÃ§Ã£o e o cumprimento das regulamentaÃ§Ãµes de proteÃ§Ã£o de dados.
 
 
-### Comunicação entre Serviços
+### ComunicaÃ§Ã£o entre ServiÃ§os
 
-A comunicação entre os serviços será realizada através de chamadas HTTP utilizando o protocolo REST. Cada serviço expõe uma API RESTful que permite que outros serviços e clientes consumam suas funcionalidades.
+A comunicaÃ§Ã£o entre os serviÃ§os serÃ¡ realizada atravÃ©s de chamadas HTTP utilizando o protocolo REST. Cada serviÃ§o expÃµe uma API RESTful que permite que outros serviÃ§os e clientes consumam suas funcionalidades.
 
 
 ### Tecnologias Utilizadas
 
-### •	Linguagem de Programação: C# (.NET Core 8.0)
-### •	Framework Web: ASP.NET Core
-### •	Banco de Dados: SQL Server 2019 ou superior
-### •	ORM: Entity Framework Core
-### •	Armazenamento de Arquivos: Azure Blob Storage (ou similar)
+ **â€¢	Linguagem de ProgramaÃ§Ã£o:** C# (.NET Core 8.0)
+ 
+ **â€¢	Framework Web:** ASP.NET Core
+ 
+ **â€¢	Banco de Dados:** SQL Server 2019 ou superior
+ 
+ **â€¢	ORM:** Entity Framework Core
+ 
+ **â€¢	Armazenamento de Arquivos:** Azure Blob Storage (ou similar)
+ 
 
-## Fluxograma da Aplicação 
+## Fluxograma da AplicaÃ§Ã£o 
 
-### Descrição do Fluxo
+![fluxo](https://github.com/esdrasli/Desafio_Thomas_Greg_Cliente/assets/42820970/7e5c34d5-355a-4401-a1c8-b4888a319983)
 
-### Interação do Cliente:
 
-### •	O cliente (usuário) interage com a interface do usuário para realizar operações relacionadas ao cadastro de clientes.
+### DescriÃ§Ã£o do Fluxo
 
-### Autenticação:
+### InteraÃ§Ã£o do Cliente:
 
-### •	Antes de realizar qualquer operação, o cliente é autenticado pelo serviço de autenticação. Se a autenticação for bem-sucedida, o cliente recebe um token JWT que será incluído em todas as requisições subsequentes.
+ â€¢	O cliente (usuÃ¡rio) interage com a interface do usuÃ¡rio para realizar operaÃ§Ãµes relacionadas ao cadastro de clientes.
 
-### Chamada ao Client Service:
+### AutenticaÃ§Ã£o:
 
-### •	O cliente realiza chamadas ao serviço de cliente (Client Service) para realizar operações como criar, atualizar, visualizar ou remover clientes.
+ â€¢	Antes de realizar qualquer operaÃ§Ã£o, o cliente Ã© autenticado pelo serviÃ§o de autenticaÃ§Ã£o. Se a autenticaÃ§Ã£o for bem-sucedida, o cliente recebe um token JWT que serÃ¡ incluÃ­do em todas as requisiÃ§Ãµes subsequentes.
 
-### Processamento das Operações:
+ Chamada ao Client Service:
 
-### •	O Client Service processa as operações solicitadas, incluindo validação de dados, aplicação de regras de negócio e chamadas ao banco de dados para persistência dos dados.
+ â€¢	O cliente realiza chamadas ao serviÃ§o de cliente (Client Service) para realizar operaÃ§Ãµes como criar, atualizar, visualizar ou remover clientes.
+
+### Processamento das OperaÃ§Ãµes:
+
+ â€¢	O Client Service processa as operaÃ§Ãµes solicitadas, incluindo validaÃ§Ã£o de dados, aplicaÃ§Ã£o de regras de negÃ³cio e chamadas ao banco de dados para persistÃªncia dos dados.
 
 ## Endpoints da API:
 
 ### Clientes:
 ```
-•	GET /api/clientes/Listar: Retorna a lista de todos os clientes cadastrados.
-•	GET /api/clientes/ObterbyId/{id}: Retorna os detalhes de um cliente específico.
-•	POST /api/clientes/Adicionar: Cria um novo cliente.
-•	PUT /api/clientes/Editar/{id}: Atualiza os detalhes de um cliente existente.
-•	DELETE /api/clientes/Excluir/{id}: Remove um cliente existente.
+â€¢	GET /api/clientes/Listar: Retorna a lista de todos os clientes cadastrados.
+â€¢	GET /api/clientes/ObterbyId/{id}: Retorna os detalhes de um cliente especÃ­fico.
+â€¢	POST /api/clientes/Adicionar: Cria um novo cliente.
+â€¢	PUT /api/clientes/Editar/{id}: Atualiza os detalhes de um cliente existente.
+â€¢	DELETE /api/clientes/Excluir/{id}: Remove um cliente existente.
 ```
 
 ### Logradouros:
 ```
-•	GET /api/clientes/{clienteId}/logradouros: Retorna a lista de logradouros de um cliente específico.
-•	GET /api/clientes/{clienteId}/logradouros/{logradouroId}: Retorna os detalhes de um logradouro específico de um cliente.
-•	POST /api/clientes/{clienteId}/logradouros: Adiciona um novo logradouro ao cliente.
-•	PUT /api/clientes/{clienteId}/logradouros/{logradouroId}: Atualiza os detalhes de um logradouro específico de um cliente.
-•	DELETE /api/clientes/{clienteId}/logradouros/{logradouroId}: Remove um logradouro específico de um cliente.
+â€¢	GET /api/clientes/{clienteId}/logradouros: Retorna a lista de logradouros de um cliente especÃ­fico.
+â€¢	GET /api/clientes/{clienteId}/logradouros/{logradouroId}: Retorna os detalhes de um logradouro especÃ­fico de um cliente.
+â€¢	POST /api/clientes/{clienteId}/logradouros: Adiciona um novo logradouro ao cliente.
+â€¢	PUT /api/clientes/{clienteId}/logradouros/{logradouroId}: Atualiza os detalhes de um logradouro especÃ­fico de um cliente.
+â€¢	DELETE /api/clientes/{clienteId}/logradouros/{logradouroId}: Remove um logradouro especÃ­fico de um cliente.
 ```
 
-### Autenticação e Autorização:
+### AutenticaÃ§Ã£o e AutorizaÃ§Ã£o:
 
-A API deve ter autenticação e autorização para proteger os recursos e garantir que apenas usuários autorizados possam acessá-los. Isso pode ser implementado utilizando JWT (JSON Web Tokens) para autenticação baseada em token e atribuição de roles ou claims para autorização de usuários.
+A API deve ter autenticaÃ§Ã£o e autorizaÃ§Ã£o para proteger os recursos e garantir que apenas usuÃ¡rios autorizados possam acessÃ¡-los. Isso pode ser implementado utilizando JWT (JSON Web Tokens) para autenticaÃ§Ã£o baseada em token e atribuiÃ§Ã£o de roles ou claims para autorizaÃ§Ã£o de usuÃ¡rios.
 
 ### Formato de Resposta:
 
-A API deve retornar respostas no formato JSON, seguindo as práticas comuns de design de APIs RESTful. O uso de códigos de status HTTP apropriados (por exemplo, 200 OK, 201 Created, 404 Not Found, etc.) e estruturas de resposta consistentes ajudará na compreensão e integração dos clientes da API.
+A API deve retornar respostas no formato JSON, seguindo as prÃ¡ticas comuns de design de APIs RESTful. O uso de cÃ³digos de status HTTP apropriados (por exemplo, 200 OK, 201 Created, 404 Not Found, etc.) e estruturas de resposta consistentes ajudarÃ¡ na compreensÃ£o e integraÃ§Ã£o dos clientes da API.
 
-### Documentação:
+### DocumentaÃ§Ã£o:
 
-É fundamental documentar a API para que os desenvolvedores possam entender facilmente como utilizá-la. O uso de ferramentas como o Swagger pode facilitar a criação de documentação interativa que descreva todos os endpoints, parâmetros de requisição, códigos de status e exemplos de resposta.
+Ã‰ fundamental documentar a API para que os desenvolvedores possam entender facilmente como utilizÃ¡-la. O uso de ferramentas como o Swagger pode facilitar a criaÃ§Ã£o de documentaÃ§Ã£o interativa que descreva todos os endpoints, parÃ¢metros de requisiÃ§Ã£o, cÃ³digos de status e exemplos de resposta.
 
 ## Testes:
 
-A API deve ser testada de forma abrangente para garantir que ela funcione corretamente em diferentes cenários. Isso inclui testes unitários, testes de integração e testes de aceitação para validar o comportamento da API em relação aos requisitos do projeto.
+A API deve ser testada de forma abrangente para garantir que ela funcione corretamente em diferentes cenÃ¡rios. Isso inclui testes unitÃ¡rios, testes de integraÃ§Ã£o e testes de aceitaÃ§Ã£o para validar o comportamento da API em relaÃ§Ã£o aos requisitos do projeto.
 
-## POC – Getting Started
+## POC â€“ Getting Started
 
-### Instruções para Executar os Projetos
+### InstruÃ§Ãµes para Executar os Projetos
 
 ### Backend
 
-### Pré-requisitos
+### PrÃ©-requisitos
 
-Certifique-se de ter o SDK do .NET Core instalado em sua máquina. Você pode baixá-lo em dotnet.microsoft.com.
+Certifique-se de ter o SDK do .NET Core instalado em sua mÃ¡quina. VocÃª pode baixÃ¡-lo em dotnet.microsoft.com.
 
 ### Executando o Backend
-### •	Navegue até o diretório raiz do projeto de backend.
-### •	Abra um terminal ou prompt de comando.
-### •	Execute o seguinte comando para restaurar as dependências do projeto:
+ â€¢	Navegue atÃ© o diretÃ³rio raiz do projeto de backend.
+ 
+ â€¢	Abra um terminal ou prompt de comando.
+ 
+ â€¢	Execute o seguinte comando para restaurar as dependÃªncias do projeto:
+
+ 
 ```
 dotnet restore
 ```
 
-Após a restauração das dependências, você deve rodar o Banco de Dados SQL Server, através de um container do Docker:
+ApÃ³s a restauraÃ§Ã£o das dependÃªncias, vocÃª deve rodar o Banco de Dados SQL Server, atravÃ©s de um container do Docker:
 
-### •	Certifique-se de que você tem o Docker instalado na sua máquina. Você pode baixá-lo e instalá-lo a partir do site oficial: https://www.docker.com/get-started.
-### •	Navegue até o diretório onde está localizado o seu Dockerfile usando o terminal ou prompt de comando.
-### •	Execute o comando docker build para construir a imagem Docker a partir do Dockerfile. Este comando cria uma imagem Docker com base nas instruções no Dockerfile.
+ â€¢	Certifique-se de que vocÃª tem o Docker instalado na sua mÃ¡quina. VocÃª pode baixÃ¡-lo e instalÃ¡-lo a partir do site oficial: https://www.docker.com/get-started.
+ 
+ â€¢	Navegue atÃ© o diretÃ³rio onde estÃ¡ localizado o seu Dockerfile usando o terminal ou prompt de comando.
+ 
+ â€¢	Execute o comando docker build para construir a imagem Docker a partir do Dockerfile. Este comando cria uma imagem Docker com base nas instruÃ§Ãµes no Dockerfile.
+ 
 
 ```
 docker build -t nome_da_imagem .
 ```
 
-Substitua "nome_da_imagem" pelo nome que você deseja dar à sua imagem Docker.
+Substitua "nome_da_imagem" pelo nome que vocÃª deseja dar Ã  sua imagem Docker.
 
 ```
-docker run --name nome_do_contêiner -p 1433:1433 nome_da_imagem
+docker run --name nome_do_contÃªiner -p 1433:1433 nome_da_imagem
 ```
 
-Substitua "nome_do_contêiner" pelo nome que você deseja dar ao seu contêiner e "nome_da_imagem" pelo nome da imagem que você construiu anteriormente.
-O parâmetro -p é usado para mapear uma porta do host para uma porta dentro do contêiner. No exemplo acima, a porta 8080 do host é mapeada para a porta 80 dentro do contêiner. Se a sua aplicação estiver escutando em uma porta diferente, ajuste a porta conforme necessário.
+Substitua "nome_do_contÃªiner" pelo nome que vocÃª deseja dar ao seu contÃªiner e "nome_da_imagem" pelo nome da imagem que vocÃª construiu anteriormente.
+O parÃ¢metro -p Ã© usado para mapear uma porta do host para uma porta dentro do contÃªiner. No exemplo acima, a porta 8080 do host Ã© mapeada para a porta 80 dentro do contÃªiner. Se a sua aplicaÃ§Ã£o estiver escutando em uma porta diferente, ajuste a porta conforme necessÃ¡rio.
 
 ### Compilando o projeto
 
-Dentro do diretório principal do projeto, você vai abrir a Solution CrudClientes.sln e após rodar, você terá a opção de buildar os projetos “APIClients” e “Client”.
+Dentro do diretÃ³rio principal do projeto, vocÃª vai abrir a Solution CrudClientes.sln e apÃ³s rodar, vocÃª terÃ¡ a opÃ§Ã£o de buildar os projetos â€œAPIClientsâ€ e â€œClientâ€.
+![cap](https://github.com/esdrasli/Desafio_Thomas_Greg_Cliente/assets/42820970/70f4a262-d8de-4bc2-8c17-15413b517012)
 
-Após a API estiver rodando, compile também o projeto Client e sua aplicação estará rodando e funcionando para testes.
+ApÃ³s a API estiver rodando, compile tambÃ©m o projeto Client e sua aplicaÃ§Ã£o estarÃ¡ rodando e funcionando para testes.
 
 
