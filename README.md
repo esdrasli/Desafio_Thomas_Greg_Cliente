@@ -1,3 +1,5 @@
+![thomas](https://github.com/esdrasli/Desafio_Thomas_Greg_Cliente/assets/42820970/df6ebfc0-acd6-4c89-a608-a447e75fb8ab)
+
 # Desafio_Thomas_Greg
 
 ## Documentação do Projeto
